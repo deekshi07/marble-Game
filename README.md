@@ -2,6 +2,7 @@
 
 > A kinetic 4×4 two-player strategic marble alignment game built with vanilla JavaScript, featuring dynamic perimeter-ring counter-clockwise board rotation after every turn.
 
+[![Live Demo](https://img.shields.io/badge/Play%20Now-Live%20on%20GitHub%20Pages-success?style=for-the-badge&logo=github)](https://deekshi07.github.io/marble-Game/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Vanilla JS](https://img.shields.io/badge/Vanilla-JavaScript-f7df1e?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/Style-Glassmorphism%20CSS3-1572B6?logo=css3)](https://www.w3.org/Style/CSS/)
